@@ -1,0 +1,16 @@
+{
+    "name": "com.freakshowstudio.serializabletimestructures.Editor",
+    "references": [
+        "com.freakshowstudio.serializabletimestructures.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
